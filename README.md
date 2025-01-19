@@ -3,17 +3,13 @@ Berikut adalah langkah-langkah yang disusun secara lebih sederhana untuk menyiap
 1. Persiapkan Prasyarat
 Pastikan Anda sudah menginstal Node.js (versi 14 atau lebih tinggi) dan npm. Cek dengan perintah:
 
-bash
-Salin
-Edit
+
 node -v
 npm -v
 2. Clone Repository
 Clone repositori proyek dan masuk ke dalam folder proyek:
 
-bash
-Salin
-Edit
+
 git clone https://github.com/dante4rt/evm-auto-transfer.git
 cd evm-auto-transfer
 3. Install Dependencies
